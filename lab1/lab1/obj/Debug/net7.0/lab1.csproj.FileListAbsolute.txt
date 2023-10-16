@@ -1,0 +1,15 @@
+D:\unik\krospl\lab1\lab1\bin\Debug\net7.0\lab1.exe
+D:\unik\krospl\lab1\lab1\bin\Debug\net7.0\lab1.deps.json
+D:\unik\krospl\lab1\lab1\bin\Debug\net7.0\lab1.runtimeconfig.json
+D:\unik\krospl\lab1\lab1\bin\Debug\net7.0\lab1.dll
+D:\unik\krospl\lab1\lab1\bin\Debug\net7.0\lab1.pdb
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.csproj.AssemblyReference.cache
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.GeneratedMSBuildEditorConfig.editorconfig
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.AssemblyInfoInputs.cache
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.AssemblyInfo.cs
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.csproj.CoreCompileInputs.cache
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.dll
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\refint\lab1.dll
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.pdb
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\lab1.genruntimeconfig.cache
+D:\unik\krospl\lab1\lab1\obj\Debug\net7.0\ref\lab1.dll
