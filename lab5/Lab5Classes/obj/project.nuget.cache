@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LZoF0P4hMmG02/DWAiX0GKU6vA+bGYJXlMBGQ3qUm2UkMm4niNl0DQu/COYzmt1bECxnUhY5ZXk/Vca85p56xw==",
+  "success": true,
+  "projectFilePath": "D:\\unik\\krospl\\lab5\\Lab5Classes\\Lab5Classes.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://10.0.2.2:5000/nuget'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
