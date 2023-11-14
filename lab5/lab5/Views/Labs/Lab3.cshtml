@@ -1,0 +1,47 @@
+﻿@model lab5.Models.ModelLab
+
+<div class="container">
+    <h1>Лабораторна робота 3</h1>
+    <p>
+        Умова задачі: Неорієнтований граф без петель та кратних ребер заданий матрицею
+        суміжності. Потрібно визначити, чи цей граф є деревом.
+    </p>
+
+    <form asp-controller="Labs" asp-action="Calculate" method="post">
+        <div class="form-group">
+            <label for="Input">
+                Введіть початкове число N - кількість вершин графа (від 1 до 100).
+                Далі введіть матрицю суміжності розміром N N, в якій 1 позначає наявність ребра, 0 - його відсутність. 
+                Матриця симетрична щодо головної діагоналі:
+            </label>
+            <input asp-for="NumberOfLab" type="hidden" value="3" />
+            <textarea asp-for="Input" class="form-control" id="Input" rows="7"></textarea>
+        </div>
+        <button type="submit" class="btn btn-primary">Обчислити</button>
+    </form>
+    <div class="form-group">
+        <label for="Output">Відповідь:</label>
+        <input asp-for="Output" class="form-control" id="Output" readonly />
+    </div>
+
+    <h2>Вхідні та вихідні дані</h2>
+    <p>
+        У вхідному файлі INPUT.TXT записано спочатку число N - кількість
+        вершин графа (від 1 до 100). Далі записана матриця суміжності розміром N N,
+        в якій 1 позначає наявність ребра, 0 - його відсутність. Матриця симетрична
+        щодо головної діагоналі
+    </p>
+    <p>
+        У вихідний файл OUTPUT.TXT виведіть повідомлення YES, якщо граф є деревом, і NO інакше.
+    </p>
+
+    <h2>Приклади</h2>
+    <p>
+        INPUT:<br />
+        3<br />
+        0 1 0<br />
+        1 0 1<br />
+        0 1 0<br />
+        OUTPUT: YES
+    </p>
+</div>
